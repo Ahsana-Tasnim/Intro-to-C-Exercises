@@ -1,0 +1,10 @@
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\bin\Debug\ZooPassExercise.exe.config
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\bin\Debug\ZooPassExercise.exe
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\bin\Debug\ZooPassExercise.pdb
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.csprojAssemblyReference.cache
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.frmZooPass.resources
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.Properties.Resources.resources
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.csproj.GenerateResource.cache
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.exe
+C:\Users\Ahsan\OneDrive\Desktop\ZooPassExercise\ZooPassExercise\obj\Debug\ZooPassExercise.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ahsan\source\repos\PropertyTax\obj\Debug\PropertyTax.csprojAssemblyReference.cache
+C:\Users\Ahsan\source\repos\PropertyTax\obj\Debug\PropertyTax.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\repos\PropertyTax\bin\Debug\PropertyTax.exe.config
+C:\Users\Ahsan\source\repos\PropertyTax\bin\Debug\PropertyTax.exe
+C:\Users\Ahsan\source\repos\PropertyTax\bin\Debug\PropertyTax.pdb
+C:\Users\Ahsan\source\repos\PropertyTax\obj\Debug\PropertyTax.exe
+C:\Users\Ahsan\source\repos\PropertyTax\obj\Debug\PropertyTax.pdb

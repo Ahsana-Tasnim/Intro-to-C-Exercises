@@ -1,0 +1,28 @@
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.Properties.Resources.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.csproj.GenerateResource.Cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.SimpleIfForm.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.IfElseForm.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.IfElseIfForm.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.IfElseIfStringForm.resources
+C:\Users\Stephen.Carter\Documents\PROG1017G\8.Conditionals\Decisions\Decisions\obj\Debug\Decisions.MenuForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.IfElseForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.IfElseIfForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.IfElseIfStringForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.MenuForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.SimpleIfForm.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.Properties.Resources.resources
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Stephen.Carter\OneDrive\Documents\Courses\PROG1017G\Fall 2018\9.Decisions\2.Demo\Decisions_Demo_Starter\Decisions\Decisions\obj\Debug\Decisions.pdb

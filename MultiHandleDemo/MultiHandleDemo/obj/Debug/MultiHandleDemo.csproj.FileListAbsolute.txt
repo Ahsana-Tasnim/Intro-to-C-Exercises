@@ -1,0 +1,11 @@
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\bin\Debug\MultiHandleDemo.exe.config
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\bin\Debug\MultiHandleDemo.exe
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\bin\Debug\MultiHandleDemo.pdb
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.frmMultiHandleRB.resources
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.frmSingleHandleRB.resources
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.exe
+C:\Users\Stephen.Carter\source\repos\MultiHandleDemo\MultiHandleDemo\obj\Debug\MultiHandleDemo.pdb

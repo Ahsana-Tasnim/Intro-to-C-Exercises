@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NonVoidMethodsDemo", "NonVoidMethodsDemo\NonVoidMethodsDemo.csproj", "{DCE9C351-A3A7-4202-96F0-8D14CBA8FDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE9C351-A3A7-4202-96F0-8D14CBA8FDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE9C351-A3A7-4202-96F0-8D14CBA8FDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE9C351-A3A7-4202-96F0-8D14CBA8FDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE9C351-A3A7-4202-96F0-8D14CBA8FDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F818A2-03A2-496E-AD6A-0AC07816C5BD}
+	EndGlobalSection
+EndGlobal

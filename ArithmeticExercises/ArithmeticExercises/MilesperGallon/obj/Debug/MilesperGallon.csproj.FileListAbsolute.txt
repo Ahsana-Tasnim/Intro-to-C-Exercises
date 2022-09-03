@@ -1,0 +1,6 @@
+C:\Users\Ahsan\source\repos\MilesperGallon\bin\Debug\MilesperGallon.exe.config
+C:\Users\Ahsan\source\repos\MilesperGallon\bin\Debug\MilesperGallon.exe
+C:\Users\Ahsan\source\repos\MilesperGallon\bin\Debug\MilesperGallon.pdb
+C:\Users\Ahsan\source\repos\MilesperGallon\obj\Debug\MilesperGallon.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\repos\MilesperGallon\obj\Debug\MilesperGallon.exe
+C:\Users\Ahsan\source\repos\MilesperGallon\obj\Debug\MilesperGallon.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ahsan\source\repos\BMI\bin\Debug\BMI.exe.config
+C:\Users\Ahsan\source\repos\BMI\bin\Debug\BMI.exe
+C:\Users\Ahsan\source\repos\BMI\bin\Debug\BMI.pdb
+C:\Users\Ahsan\source\repos\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\repos\BMI\obj\Debug\BMI.exe
+C:\Users\Ahsan\source\repos\BMI\obj\Debug\BMI.pdb

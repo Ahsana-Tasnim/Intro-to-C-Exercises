@@ -1,0 +1,10 @@
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\bin\Debug\MPGCalculator.exe.config
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\bin\Debug\MPGCalculator.exe
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\bin\Debug\MPGCalculator.pdb
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.csprojAssemblyReference.cache
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.MPGCalculator.resources
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.Properties.Resources.resources
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.csproj.GenerateResource.cache
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.exe
+C:\Users\Ahsan\source\IntrotoProgramming\MPGCalculator\obj\Debug\MPGCalculator.pdb

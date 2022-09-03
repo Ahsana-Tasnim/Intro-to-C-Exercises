@@ -1,0 +1,10 @@
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\bin\Debug\ShippingCalc.exe.config
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\bin\Debug\ShippingCalc.exe
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\bin\Debug\ShippingCalc.pdb
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.csprojAssemblyReference.cache
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.frmShippingCalc.resources
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.Properties.Resources.resources
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.csproj.GenerateResource.cache
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.exe
+C:\Users\Ahsan\OneDrive\Desktop\ShippingCalc\ShippingCalc\obj\Debug\ShippingCalc.pdb

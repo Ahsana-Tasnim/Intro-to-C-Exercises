@@ -1,0 +1,6 @@
+C:\Users\Ahsan\source\repos\TicketSales\bin\Debug\TicketSales.exe.config
+C:\Users\Ahsan\source\repos\TicketSales\bin\Debug\TicketSales.exe
+C:\Users\Ahsan\source\repos\TicketSales\bin\Debug\TicketSales.pdb
+C:\Users\Ahsan\source\repos\TicketSales\obj\Debug\TicketSales.csproj.CoreCompileInputs.cache
+C:\Users\Ahsan\source\repos\TicketSales\obj\Debug\TicketSales.exe
+C:\Users\Ahsan\source\repos\TicketSales\obj\Debug\TicketSales.pdb

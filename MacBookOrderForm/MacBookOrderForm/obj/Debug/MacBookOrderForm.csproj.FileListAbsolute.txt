@@ -1,0 +1,10 @@
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\bin\Debug\MacBookOrderForm.exe.config
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\bin\Debug\MacBookOrderForm.exe
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\bin\Debug\MacBookOrderForm.pdb
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.frmMacBookOrder.resources
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.Properties.Resources.resources
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.exe
+C:\Users\Stephen.Carter\source\repos\MacBookOrderForm\MacBookOrderForm\obj\Debug\MacBookOrderForm.pdb
